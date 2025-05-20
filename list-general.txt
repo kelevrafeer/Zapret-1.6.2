@@ -56,3 +56,5 @@ pre-pnd.soundcloud.com
 pnd.soundcloud.com
 help.soundcloud.com
 support.soundcloud.com
+mods.factorio.com
+factorio.com
